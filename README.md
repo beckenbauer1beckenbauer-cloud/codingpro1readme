@@ -9,20 +9,32 @@ I build clean, scalable applications and love turning complex problems into eleg
 
 Here are some of the projects I am most proud of. Click on the headings to check out the repositories!
 
-### 📱 [Project Name 1]
+### 📱 Book Recommendation Engine using K-Nearest Neighbors (KNN)
 https://github.com/beckenbauer1beckenbauer-cloud/book-recommendation
-> **A short, punchy 1-2 sentence description of what the project does.**
-* **Tech Stack:** React, Node.js, PostgreSQL, Docker
-* **Key Feature:** Implemented a real-time data sync that reduced latency by 40%.
-* **Live Demo:** [Link to live site/app](https://your-demo-link.com)
+This repository contains a Machine Learning project that builds a Book Recommendation Engine using the K-Nearest Neighbors (KNN) algorithm. The model analyzes user ratings from the Book-Crossings dataset to find and recommend books that are statistically and behaviorally similar to a given title.
 
-### ⚙️ [Project Name 2](https://github.com/your-username/repo-name)
-> **A short, punchy 1-2 sentence description of what the project does.**
-* **Tech Stack:** Python, FastAPI, AWS, Redis
-* **Key Feature:** Designed an automated CI/CD pipeline that streamlined deployment.
-* **Live Demo:** [Link to live site/app](https://your-demo-link.com)
+### ⚙️ MEDICAL DATA VISUALIZER
+https://github.com/beckenbauer1beckenbauer-cloud/Medical-Data-Visualizer
+This project processes, cleans, normalizes, and visualizes body metrics and clinical examination data collected from patients. It evaluates the relational correlations between lifestyle habits, physiological measurements, and cardiovascular diseases.
 
-### 📊 [Project Name 3](https://github.com/your-username/repo-name)
-> **A short, punchy 1-2 sentence description of what the project does.**
-* **Tech Stack:** TypeScript, Next.js, TailwindCSS
-* **Key Feature:** Built a fully responsive dashboard with interactive data visualizations.
+### celestial-bodies-database
+https://github.com/beckenbauer1beckenbauer-cloud/celestial-bodies-database
+This is a PostgreSQL database dump named universe. It is designed to track and map out astronomical data, establishing a clear hierarchical relationship between different celestial bodies, alongside a table for tracking historical and active astronomers.
+
+### Mean-Variance-Standard Deviation Calculator
+https://github.com/beckenbauer1beckenbauer-cloud/-Mean-Variance-Standard-Deviation-Calculator
+The project showcases the use of NumPy to process lists of numbers, reshape them into multi-dimensional arrays, and perform structured matrix calculations along different dimensions (axes).
+
+see also:
+# decentra-link-hackathon1
+https://github.com/beckenbauer1beckenbauer-cloud/decentra-link-hackathon1
+
+### PAGE VIEW TIME SERIES VISUALIZER
+This project analyzes and visualizes the daily traffic and page view counts of the forum over a multi-year timeline (2016 to 2019). It uncovers underlying growth trajectories, yearly expansions, and recurring monthly seasonality behaviors.
+
+### Demographic Data Analyzer Notes & Documentation
+https://github.com/beckenbauer1beckenbauer-cloud/fcc-demographic-data-analyzer
+analyze demographic data using Pandas.
+
+### see more others
+https://github.com/beckenbauer1beckenbauer-cloud?tab=repositories
