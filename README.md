@@ -26,7 +26,7 @@ https://github.com/beckenbauer1beckenbauer-cloud/-Mean-Variance-Standard-Deviati
 The project showcases the use of NumPy to process lists of numbers, reshape them into multi-dimensional arrays, and perform structured matrix calculations along different dimensions (axes).
 
 see also:
-# decentra-link-hackathon1
+### decentra-link-hackathon1
 https://github.com/beckenbauer1beckenbauer-cloud/decentra-link-hackathon1
 
 ### PAGE VIEW TIME SERIES VISUALIZER
@@ -36,5 +36,5 @@ This project analyzes and visualizes the daily traffic and page view counts of t
 https://github.com/beckenbauer1beckenbauer-cloud/fcc-demographic-data-analyzer
 analyze demographic data using Pandas.
 
-### see more others
+# see more others
 https://github.com/beckenbauer1beckenbauer-cloud?tab=repositories
